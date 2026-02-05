@@ -1,0 +1,2 @@
+# California-Housing-Market-Analysis-Predictive-Insights-Using-SQL-and-Python
+Conducted end-to-end **housing market data analysis** using **SQL and Python**, applying **EDA, geospatial analysis, and visualization** to identify pricing trends and regional disparities. Derived **data-driven insights** on affordability, location impact, and market patterns to support informed, inclusive housing decisions.
