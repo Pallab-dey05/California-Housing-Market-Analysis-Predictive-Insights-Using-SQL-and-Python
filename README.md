@@ -22,3 +22,12 @@ The data for this project is sourced from the Kaggle dataset.
 * PostgreSQL (SQL querying & data extraction)
 * Python Libraries (Pandas, Matplotlib, Seaborn)
 * Visual Studio Code
+
+# | Analysis            | Key Insight                                  |
+| ------------------- | -------------------------------------------- |
+| Income vs Price     | Higher income areas show strong price growth |
+| Ocean Proximity     | Coastal regions command premium pricing      |
+| Correlation Heatmap | Income is strongest predictor of house value |
+| Rooms vs Price      | Larger properties trend higher in value      |
+
+# Findings and Conclusion
