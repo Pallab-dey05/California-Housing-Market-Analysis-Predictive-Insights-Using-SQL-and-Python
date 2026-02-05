@@ -1,0 +1,17 @@
+-- 15 Business Problems
+
+1. Assess median house values across latitude–longitude regions to identify geographic pricing patterns.
+2. Evaluate the impact of median income on housing prices across neighborhoods.
+3. Assess the impact of ocean proximity on housing prices and regional market demand.
+4. Evaluate how neighborhood age influences property values across the housing market.
+5. Analyze the impact of population density on housing prices across regions.
+6. Assess how the number of households influences median housing prices.
+7. Evaluate whether higher average room counts are associated with increased property values.
+8. Analyze how the bedroom-to-room ratio influences housing price patterns and property valuation.
+9. Segment neighborhoods into market tiers based on pricing and income levels to identify distinct housing market segments.
+10. Identify premium housing markets by analyzing geographic areas with consistently high property values and income levels.
+11. Detect potentially undervalued markets where housing prices remain low despite moderate or high income levels.
+12. Evaluate the relationship between population per household and housing prices to understand urban density effects.
+13. Identify price anomalies by detecting properties significantly overvalued or undervalued relative to market indicators.
+14. Assess how neighborhood age correlates with population trends and property value distribution.
+15. Determine the key drivers of housing prices by analyzing the influence of income, property size, population, age, and location.
