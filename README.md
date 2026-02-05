@@ -19,8 +19,6 @@ The data for this project is sourced from the Kaggle dataset.
 
 * <b>Dataset Link: </b> 
 # Tools & Technologies Used
-*PostgreSQL (SQL querying & data extraction)
-*Python (Pandas, Matplotlib, Seaborn)
-*VS Code
-*Data Visualization
-*Exploratory Data Analysis (EDA)
+* PostgreSQL (SQL querying & data extraction)
+* Python Libraries (Pandas, Matplotlib, Seaborn)
+* Visual Studio Code
