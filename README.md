@@ -34,3 +34,6 @@ The data for this project is sourced from the Kaggle dataset.
   The analysis highlighted clear links between median income, geographic location, housing characteristics, and property values, showing how location and income levels significantly influence housing affordability and market access. Geospatial analysis exposed regional disparities, with high-demand areas reflecting higher valuations, while population and household factors also shaped pricing trends.
   
   By applying SQL, exploratory data analysis (EDA), correlation analysis, and Python-based data visualization, the project generated actionable business intelligence insights that support data-driven, transparent, and socially responsible housing and real estate decision-making.
+
+* Author - Pallab Dey
+  This project is part of my professional portfolio and demonstrates practical skills in SQL and Python-based data analytics. It highlights hands-on experience in data querying, analysis, visualization, and insight generation to support real-world, data-driven decision-making.
