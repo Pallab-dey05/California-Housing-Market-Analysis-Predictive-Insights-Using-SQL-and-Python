@@ -1,5 +1,5 @@
 # California-Housing-Market-Analysis-Predictive-Insights-Using-SQL-and-Python
-![image alt]()
+![image alt](https://github.com/Pallab-dey05/California-Housing-Market-Analysis-Predictive-Insights-Using-SQL-and-Python/blob/ef28052340c7acc61d6136b1239db9abda113302/California%20Real%20Estate%20Market%20Logo.svg)
 
 # Overview
 Performed end-to-end **housing market data analysis** using **PostgreSQL and Python**, applying **exploratory data analysis (EDA), geospatial analysis, and statistical visualization** to uncover pricing trends and market patterns.
