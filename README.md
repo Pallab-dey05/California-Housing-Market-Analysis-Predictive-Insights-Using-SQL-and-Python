@@ -36,5 +36,5 @@ The data for this project is sourced from the Kaggle dataset.
   
   By applying SQL, exploratory data analysis (EDA), correlation analysis, and Python-based data visualization, the project generated actionable business intelligence insights that support data-driven, transparent, and socially responsible housing and real estate decision-making.
 
-* Author - Pallab Dey
+# Author - Pallab Dey
   This project is part of my professional portfolio and demonstrates practical skills in SQL and Python-based data analytics. It highlights hands-on experience in data querying, analysis, visualization, and insight generation to support real-world, data-driven decision-making.
