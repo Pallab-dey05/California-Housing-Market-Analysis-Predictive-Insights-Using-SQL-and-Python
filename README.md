@@ -13,3 +13,8 @@ Generated **business intelligence insights** on key housing price drivers, marke
 * Generated **data-driven business intelligence insights** to support informed decision-making in **real estate market analysis and housing affordability evaluation**.
 
 * Leveraged analytics to highlight **location-based inequalities and market accessibility**, contributing to more transparent, balanced, and socially responsible housing strategies.
+
+# Dataset
+The data for this project is sourced from the Kaggle dataset.
+
+* Dataset Link: 
