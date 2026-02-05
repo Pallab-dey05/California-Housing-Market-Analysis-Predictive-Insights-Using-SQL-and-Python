@@ -23,7 +23,7 @@ The data for this project is sourced from the Kaggle dataset.
 * Python Libraries (Pandas, Matplotlib, Seaborn)
 * Visual Studio Code
 
-#  Analysis          versus             Key Insight             
+#  Analysis versus Key Insight             
  
  * Income vs Price depicting Higher income areas show strong price growth 
  * Ocean Proximity depicting Coastal regions command premium pricing      
