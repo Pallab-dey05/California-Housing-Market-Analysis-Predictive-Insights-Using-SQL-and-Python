@@ -16,8 +16,8 @@ Generated **business intelligence insights** on key housing price drivers, marke
 
 # Dataset
 The data for this project is sourced from the Kaggle dataset.
-
-* <b>Dataset Link: </b> 
+* <b>Dataset Link: </b> [View Full Dataset](https://github.com/Pallab-dey05/California-Housing-Market-Analysis-Predictive-Insights-Using-SQL-and-Python/blob/68ef84a273dde8b8bcae4bbeb91e0bb5a52cc151/housing.csv)
+  
 # Tools & Technologies Used
 * PostgreSQL (SQL querying & data extraction)
 * Python Libraries (Pandas, Matplotlib, Seaborn)
