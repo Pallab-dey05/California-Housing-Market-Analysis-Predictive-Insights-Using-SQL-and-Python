@@ -31,3 +31,6 @@ The data for this project is sourced from the Kaggle dataset.
  * Rooms vs Price depicting Larger properties trend higher in value      
 
 # Findings and Conclusion
+  The analysis highlighted clear links between median income, geographic location, housing characteristics, and property values, showing how location and income levels significantly influence housing affordability and market access. Geospatial analysis exposed regional disparities, with high-demand areas reflecting higher valuations, while population and household factors also shaped pricing trends.
+  
+  By applying SQL, exploratory data analysis (EDA), correlation analysis, and Python-based data visualization, the project generated actionable business intelligence insights that support data-driven, transparent, and socially responsible housing and real estate decision-making.
