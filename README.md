@@ -24,10 +24,10 @@ The data for this project is sourced from the Kaggle dataset.
 * Visual Studio Code
 
 #  Analysis          versus             Key Insight             
- -------------------   | -------------------------------------------- 
- * Income vs Price     | Higher income areas show strong price growth 
- * Ocean Proximity     | Coastal regions command premium pricing      
- * Correlation Heatmap | Income is strongest predictor of house value 
- * Rooms vs Price      | Larger properties trend higher in value      
+ 
+ * Income vs Price depicting Higher income areas show strong price growth 
+ * Ocean Proximity depicting Coastal regions command premium pricing      
+ * Correlation Heatmap depicting Income is strongest predictor of house value 
+ * Rooms vs Price depicting Larger properties trend higher in value      
 
 # Findings and Conclusion
